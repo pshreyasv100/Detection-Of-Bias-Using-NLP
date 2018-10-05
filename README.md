@@ -1,0 +1,6 @@
+- The project is submitted as an iPython noteook - 'Project.ipynb'
+- 'Dataset_India.csv' and 'Dataset_US.csv' - The datasets that contain articles from various newspapers from India and US respectively. 
+- An NRC emotions lexicon, which is loaded in the code, to be used in the model.  
+- 'emotions.pkl' - The NRC emotion lexicon model where sentiments are extracted is used, and is already previously trained, and is stored in the file emotions.pkl to avoid the time consuming training everytime. This data is loaded from the file before it is used.
+- 'TOI_Scraping.ipynb' and 'NDTV_Scraping.ipynb' - Codes that were used to perform web scraping from the news websites.
+- 'REPORT_286_288_289.pdf' - The Final Report
